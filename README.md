@@ -21,5 +21,5 @@
 
 - 推特：@shuzijianzao
 - Wechat：IG_planet
-- Email：shuzijianzao.com
+- Email：shuzijianzao@gmail.com
 - Web：shuzijianzao.com
