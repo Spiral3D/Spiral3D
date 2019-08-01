@@ -8,11 +8,7 @@
 
 <h4 align="center"><a href="http://shuzijianzao.com" target="_blank"></a>.</h4>
 
-<p align="center">
-  <a href="https://www.paypal.me/SZJZ">
-    <img src="https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat">
-  </a>
-</p>
+	
 
 ## 🚀 Introduction
 - 记录笔记，2年前开始建立世界观，但是很多时候因为记忆，和环境干扰，不能很好的完善世界观。
