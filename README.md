@@ -8,8 +8,6 @@
 
 <h4 align="center"><a href="http://shuzijianzao.com" target="_blank"></a>.</h4>
 
-	
-
 ## 🚀 Introduction
 - 记录笔记，2年前开始建立世界观，但是很多时候因为记忆，和环境干扰，不能很好的完善世界观。
 
