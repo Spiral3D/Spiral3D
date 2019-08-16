@@ -10,10 +10,12 @@
 
 ## 🚀 Introduction
 - 记录笔记，2年前开始建立世界观，但是很多时候因为记忆，和环境干扰，不能很好的完善世界观。
+- GitHub是一个管理版本的工具，这样可以记录我意识形态的变化和心理变化。随着年龄的增长，记忆力和脑力明显不如以往。
 
 ## 👬 Contribution
 
 - 推特：@shuzijianzao
 - Wechat：IG_planet
 - Email：shuzijianzao@gmail.com
+-Whatsapp
 - Web：shuzijianzao.com
