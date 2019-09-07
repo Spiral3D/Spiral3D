@@ -2,7 +2,7 @@
   <br>
   <a href="https://github.com/shuzijianzao/Spiral3D/blob/master/Picture/SHUZIJIANZAO"><img src="https://github.com/shuzijianzao/Spiral3D/blob/master/Picture/SHUZIJIANZAO.png" alt="SHUZIJIANZAO" width="200"></a>
   <br>
-   Life
+   Live
   <br>
 </h1>
 
@@ -11,9 +11,6 @@
 
 ## 雪茄
 - 古巴的雪茄很好，红土生长出来的红叶。抽雪茄，抽到最后，烫嘴。
-
+z
 ## 酒
 - 起初觉得芝华士的味道很好，可是现在觉得味道不是很好，有一款又便宜又好喝的威士忌，烟熏味道重一点。
-
-## 快闪
-- 很好玩
