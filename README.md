@@ -15,7 +15,7 @@
 
 ## 👬 Contribution
 
-- 推特：@shuzijianzao
+- Twitter：@shuzijianzao
 - Wechat：IG_planet
 - Email：shuzijianzao@gmail.com
 - Whatsapp:086 17301637045
