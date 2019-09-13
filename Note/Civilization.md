@@ -8,6 +8,8 @@
 
 ## 136亿年前
 - 
-## 蘇美文明
+## Sumer
+- management  since sumer.
 
-## 玛雅文明
+## Maya
+- 
