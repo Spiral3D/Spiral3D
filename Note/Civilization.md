@@ -9,7 +9,7 @@
 ## 136亿年前
 - 
 ## Sumer
-- management  since sumer.
+- management since sumer.
 
 ## Maya
 - 
