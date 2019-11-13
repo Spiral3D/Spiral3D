@@ -1,8 +1,8 @@
  <h1  align="center"> 
   <br>
-  <a href="https://github.com/shuzijianzao/Spiral3D/blob/master/Picture/SHUZIJIANZAO"><img src="https://github.com/shuzijianzao/Spiral3D/blob/master/Picture/Spiral3D.png" alt="SHUZIJIANZAO" width="200"></a>
+  <a href="https://github.com/shuzijianzao/Spiral3D/blob/master/Picture/SHUZIJIANZAO"><img src="https://github.com/shuzijianzao/Spiral3D/blob/master/Picture/SHUZIJIANZAO.png" alt="SHUZIJIANZAO" width="200"></a>
   <br>
-   World View
+  WorldView
   <br>
 </h1>
 
@@ -117,6 +117,7 @@
 13 记忆不是自己的，性格，情感，
 14 身体异样，然后，FO（一种抬高自己,建立傲慢的意境） DAO(口无遮拦，自以为是的游走状态) LANGREN（建立信任的一个不太靠谱的方式，甚至让你自宫）
 15 没有给刀起过名字，不对 菜刀也是名字，只不过不是我起的名字，但是一些人描述的上古神兵，夸张的特效和神乎其神的功能，架空世界在很早就存在过。
+16 strabge egg,
 
 ## 外交政策
 - 正常性交，不做口交 不做肛交（正常性交之外的不交）
