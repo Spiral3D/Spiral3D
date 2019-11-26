@@ -2,10 +2,24 @@
   <br>
   <a href="https://github.com/shuzijianzao/Spiral3D/blob/master/Picture/SHUZIJIANZAO"><img src="https://github.com/shuzijianzao/Spiral3D/blob/master/Picture/SHUZIJIANZAO.png" alt="SHUZIJIANZAO" width="200"></a>
   <br>
-   Architecture
+  李宇杰的笔记
   <br>
 </h1>
 
+<h4 align="center"><a href="http://shuzijianzao.com" target="_blank"></a>.</h4>
+
+## 🚀 Introduction
+- 记录笔记，建立世界观，但是很多时候因为记忆，和环境干扰，不能很好的完善世界观。
+- GitHub是一个管理版本的工具，这样可以记录我意识形态的变化和心理变化。
+- 意识形态里，很多人想得到更多，那么得不到的时候，就会有反思，反思 多了，就有了爱情，人文，最终才会有现代社会的样子，科技，管理，经济，艺术，技术，政治,疾病，医疗，亲情，友情，憎恨，恐惧，对抗，幸福，少年夭折，英年早逝，老年孤独......一直存在对美好未来的憧憬和建设，从未停止过。
+
+## 👬 Contribution
+- Name：李宇杰
+- Twitter：@shuzijianzao
+- Wechat：IG_planet
+- Email：shuzijianzao@gmail.com
+- Whatsapp:+086 17301637045
+- Web：shuzijianzao.com
 ## Farm
 - https://www.agritecture.com
 
@@ -34,7 +48,7 @@
 - 
 
 ## 城市设计规划
-- 智慧城市（注意到这样的公司，完成日常生活活动的时候需要在流程里面使用的信息采集信息上传信息传递的数字化工具，比如指纹识别采集的机器，这类机械似乎是智慧城市的组成部件，好像跟我预期的不是太一样）
+- 智慧城市（注意到有这样的公司，完成日常生活活动的时候需要在流程里面使用的信息采集信息上传信息传递的数字化工具，比如指纹识别采集的机器，这类机械似乎是智慧城市的组成部件，好像跟我预期的不是太一样）
 - 一位艺术家画的一个蒸汽朋克城市，在我看来不是一个城市，是一个村庄，然后，它是在地表上面的（可以有自然光线），并没有轴测地下（没有自然光线）的样子。
 
 ## 施工组织
