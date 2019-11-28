@@ -20,5 +20,4 @@
 - Whatsapp:+086 17301637045
 - Web：shuzijianzao.com
 
-## 组合
-我来组成头部和躯干 四肢 毛发
+
