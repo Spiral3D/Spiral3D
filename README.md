@@ -16,7 +16,7 @@
 ## 👬 Contribution
 - Name：李宇杰
 - ID：230124198801026119
-- Sex：男
+- Sex：male
 - Twitter：@shuzijianzao
 - Wechat：IG_planet
 - Email：shuzijianzao@gmail.com
