@@ -8,19 +8,9 @@
 
 <h4 align="center"><a href="http://shuzijianzao.com" target="_blank"></a>.</h4>
 
-## 🚀 Introduction
-- 记录笔记，建立世界观，但是很多时候因为记忆，和环境干扰，不能很好的完善世界观。
-- GitHub是一个管理版本的工具，这样可以记录我意识形态的变化和心理变化。
-
-## 👬 Contribution
-- Name：李宇杰
-- Twitter：@shuzijianzao
-- Wechat：IG_planet
-- Email：shuzijianzao@gmail.com
-- Whatsapp:+086 17301637045
-- Web：shuzijianzao.com
 ## 136亿年前
 - 
+
 ## Sumer
 - management since sumer.v
 
@@ -31,16 +21,5 @@
 - 摘自百度：
 女娲执政：休养生息妖族之力，以鲲鹏、英招、计蒙、毕方、穷奇、开明、陆吾、饕餮八大妖神为首的残余妖教，以彩凤、金羽、彩鹊、青鸾、火凤、白虎等凤凰鸟兽一族为辅
 
-
-## 常用口语
-- 你好
-- 谢谢
-- 登记入住
-- 登记离开
-- 再见
-- 在哪里
-- 吃饭
-- 在工作
-- 没关系
-- 我爱你
-- 怎么做？
+## 干支记日法
+- 看不懂，太难了。
