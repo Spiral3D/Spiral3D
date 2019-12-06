@@ -9,7 +9,7 @@
 <h4 align="center"><a href="http://shuzijianzao.com" target="_blank"></a>.</h4>
 
 ## 寿命
-- 人的平均寿命79年。
+- 人形生物的平均寿命79年。
 
 ## 物种
 
