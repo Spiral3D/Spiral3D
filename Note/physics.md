@@ -13,3 +13,13 @@
 - 空间旅人
 - soom  and  tube
 - 小酒馆空间旅人
+
+
+## git
+- git init
+- git clone 
+- git checkout -b name.feature
+- git commit -m "information"
+- git push origin master
+- git merge name.feature
+- git pull 
