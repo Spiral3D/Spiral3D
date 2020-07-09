@@ -9,22 +9,20 @@
 <h4 align="center"><a href="http://shuzijianzao.com" target="_blank"></a>.</h4>
 
 ## 🚀 Introduction
-- 记录笔记，建立世界观，但是很多时候因为记忆，和环境干扰，不能很好的完善世界观。
-- GitHub是一个管理版本的工具，这样可以记录笔记，回顾我意识形态的变化和心理变化。
-- 
+- Github是一個管理版本的工具,在這裡,我記錄一些筆記, 並且可以回顧不同時間的紀錄.
 
 ## 🚀 About The Author
-- 喜欢建筑，金属物品，木制物品，玻璃，清水混凝土，瓷器，牛油果，水池，石头，骨头，漫画，素颜，读书，可追溯调理的设计，创意文化，油画，植物，蚯蚓，语言文字，精酿啤酒，干净整洁的工艺，地图，毛皮类动物，贝壳，游泳，望远镜，布衣，不致命的伤疤，体毛，八爪鱼，骏马，雀斑美女。
-
-## 👬 Contribution
 - Name：李宇杰
 - ID：230124198801026119
-- Sex：male
+- Gender：male
+- 喜歡建築，金屬物品，木製物品，玻璃，清水混凝土，瓷器，牛油果，水池，石頭，骨頭，漫畫, 素顏, 讀書, 可追述條例的設計，創意文化，油畫，植物，蚯蚓，蜘蛛, 語言文字, 循環體, 精釀啤酒，乾淨整潔的工藝，地圖，毛皮類動物，貝殼，游泳，望遠鏡，布衣，不致命的傷疤，體毛，八爪鱼，骏马，雀斑美女,。
+
+## 👬 Contribution
 - Twitter：@shuzijianzao
 - Wechat：IG_planet
-- Email：shuzijianzao@gmail.com
+- Email：shuzijianzao@outlook.com
 - Whatsapp:+086 17301637045
-- GitHub：Spiral3D
+- GitHub：Spiral3D  shuzijianzao
 - Web：shuzijianzao.com
 - Address：中国大陆
 - Company： 佐乌（上海）科技有限公司 
