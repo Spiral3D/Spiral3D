@@ -1,30 +1,13 @@
- <!DOCTYPE html>
- <html>
- <head>
- 	<title></title>
- 	<style type="text/css">
- 		h1{
- 			align-self: "center";
- 		}
- 		h4{
- 			align-self: "center";
- 		}
- 	</style>
- </head>
- <body>
- 	<h1> 
- 		<br>
- 		<img src="https://github.com/shuzijianzao/Spiral3D/blob/master/Picture/SHUZIJIANZAO.png">
- 		李宇杰的笔记
- 		<br>
- 	</h1>
- 	<h4>
- 		<a href="http://shuzijianzao.com" target="_blank">
- 		</a>
- 	</h4>
- </body>
- </html>
+ <h1  align="center"> 
+  <br>
+  <img src="https://github.com/shuzijianzao/Spiral3D/blob/master/Picture/SHUZIJIANZAO.png">
+  <br>
+</h1>
 
+<h4 align="center">
+	<a href="http://shuzijianzao.com" target="_blank">
+	</a>
+</h4>
 
 ## 🚀 Introduction
 - Github是一個管理版本的工具,在這裡,我記錄一些筆記, 並且可以回顧不同時間的紀錄.
