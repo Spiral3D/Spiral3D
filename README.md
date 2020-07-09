@@ -1,6 +1,6 @@
  <h1  align="center"> 
   <br>
-  <img src="https://github.com/shuzijianzao/Spiral3D/blob/master/Picture/SHUZIJIANZAO.png" alt="Size Limit CLI" width="50">
+  <img src="https://github.com/shuzijianzao/Spiral3D/blob/master/Picture/SHUZIJIANZAO.png" alt="Size Limit CLI" width="90">
   <br>
 </h1>
 
