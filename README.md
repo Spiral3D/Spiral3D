@@ -1,6 +1,6 @@
  <h1  align="center"> 
   <br>
-  <img src="https://github.com/shuzijianzao/Spiral3D/blob/master/Picture/SHUZIJIANZAO.png">
+  <img src="https://github.com/shuzijianzao/Spiral3D/blob/master/Picture/SHUZIJIANZAO.png" width="50" height="50">
   <br>
 </h1>
 
