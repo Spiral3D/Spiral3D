@@ -13,10 +13,10 @@
 - ID：230124198801026119
 - Gender：male
 - Twitter：@shuzijianzao
-- Wechat：IG_planet
-- Email：shuzijianzao@outlook.com
+- Wechat：Spiral369
+- Email：yujaylee@outlook.com
 - Whatsapp:+086 17301637045
-- GitHub：Spiral3D  shuzijianzao
+- GitHub：yujaylee
 - Web：shuzijianzao.com
 - Address：中国大陆
 - Company： 佐乌（上海）科技有限公司 
