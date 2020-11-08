@@ -14,7 +14,7 @@
 - Gender：male
 - Twitter：@shuzijianzao
 - Wechat：Spiral369
-- Email：yujaylee@outlook.com
+- Email：shuzijianzao@outlook.com
 - Whatsapp:+086 17301637045
 - GitHub：yujaylee
 - Web：shuzijianzao.com
