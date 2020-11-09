@@ -26,8 +26,8 @@
 ## QQ
 - 553569396
 
-## ReadMe
-- yujaylee yujaylee@foxmail.com
+## Udmey
+- shuzijianzao@outlook.com
 
 ## Google
 - shuzijianzao@gmail.lom
@@ -99,3 +99,24 @@
 
 ## Godaddy
 - Yujjie.Li  shuzijianzao@outlook.com
+
+## Windscrip
+- yeahohwow  shuzijianzao@gmail.com
+
+## BaiDu
+- yujaylee
+
+## 荔枝FM
+- 17301637045
+
+## 知乎
+- WeChat
+
+## MOMO
+- 17301637045  (canceled)
+
+## 美丽约
+- 17301637045  (not using)
+
+## ReadMe
+- yujaylee yujaylee@foxmail.com

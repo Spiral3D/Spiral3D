@@ -11,6 +11,6 @@
 ##            上海   rfr two (month)
 ##            上海   炎生资本 (two month)
 ## 2016-2017  上海   博威外汇 (two month)
-## 2017       上海   亚士漆 (two month)
 ##            上海   如新 (severl month)
-## 2019-2020              
+## 2017       上海   亚士漆 (two month)
+          
