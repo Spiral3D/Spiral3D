@@ -1,20 +1,21 @@
 ## Email
+- yujeylee@hotmail.com 
+- shuzijainzao@outlook.com   
+- yujaylee@icloud.com 
+- shuzijianzao@gmail.com
+- yeahohwow@gmail.com  
 - 553569396@qq.com
 - yujaylee@foxmail.com                        
 - yujaylee@163.com                            
-- yujeylee@hotmail.com
-- yujaylee@outlook.com                        (closed)
-- yujaylee@icloud.com                         
-- shuzijainzao@outlook.com
-- intelligentgreenplanet@outlook.com          (closed)
-- zawoonet@outlook.com                        (closed)
-- zawoo.net@outlook.com                       (closed)
-- shuzijianzao@gmail.com
-- yeahohwow@gmail.com
+- yujaylee@outlook.com                            (closed)               
+- intelligentgreenplanet@outlook.com              (closed)
+- zawoonet@outlook.com                            (closed)
+- zawoo.net@outlook.com                           (closed)
+
 
 ## GitHub
 - yujaylee           shuzijianzao@outlook.com
-- shuzijainzao       shuzijianzao@gmail.com    (email canceled ,enable to login,but can archive the account name)
+- shuzijainzao       shuzijianzao@gmail.com       (email canceled ,enable to login,but can archive the account name)
 - zawoonet           yujaylee@hotmail.com
 
 ## WeChat & WeChat platform
@@ -70,8 +71,8 @@
 ## Kindle
 - shuzijianzao@outlook.com
 
-## Amazon cn & us
-- shuzijainzao@outlook.com 
+## Amazon
+- yujaylee@hotmail.com 
 
 ## Alipay
 - yujaylee@hotmail.com
@@ -81,6 +82,7 @@
 
 ## Eyepetizer
 - WeChat
+- 
 
 ## Rhino3D
 - google shuzijianzao@gmail.com
