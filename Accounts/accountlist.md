@@ -1,13 +1,14 @@
 ## Email
 - 553569396@qq.com
-- yujaylee@foxmail.com 
-- yujaylee@163.com
+- yujaylee@foxmail.com                        
+- yujaylee@163.com                            
 - yujeylee@hotmail.com
-- yujaylee@outlook.com
+- yujaylee@outlook.com                        (closed)
+- yujaylee@icloud.com                         
 - shuzijainzao@outlook.com
-- intelligentgreenplanet@outlook.com  (canceled)
-- zawoonet@outlook.com
-- zawoo.net@outlook.com (canceled)
+- intelligentgreenplanet@outlook.com          (closed)
+- zawoonet@outlook.com                        (closed)
+- zawoo.net@outlook.com                       (closed)
 - shuzijianzao@gmail.com
 - yeahohwow@gmail.com
 
@@ -19,9 +20,9 @@
 ## WeChat & WeChat platform
 - Spiral369                         17301637045
 - Spiral3D                          17301637045
-- yujaylee_chatbox  (canceled)      15391546407   (canceled)
-- mini program   (enable to login)
-- anther one offical account  (enable to login)
+- yujaylee_chatbox                  15391546407   (canceled)
+- mini program                                    (enable to login)
+- anther one offical account                      (enable to login)
 
 ## QQ
 - 553569396
@@ -120,3 +121,6 @@
 
 ## ReadMe
 - yujaylee yujaylee@foxmail.com
+
+## Aliyun
+- 
