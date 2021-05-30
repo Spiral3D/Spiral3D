@@ -17,7 +17,7 @@
 - Email：shuzijianzao@outlook.com
 - Whatsapp:+086 17301637045
 - GitHub：yujaylee
-- Web：shuzijianzao.com
+- Web：yujaylee.com
 - Address：中国大陆
 - Company： 佐乌（上海）科技有限公司 
 - 喜歡建築，金屬物品，木製物品，玻璃，清水混凝土，瓷器，牛油果，水池，石頭，骨頭，漫畫, 素顏, 讀書, 可追述條例的設計，創意文化，油畫，植物，蚯蚓，蜘蛛, 語言文字, 循環體, 精釀啤酒，乾淨整潔的工藝，地圖，毛皮類動物，貝殼，游泳，望遠鏡，布衣，不致命的傷疤，體毛，八爪魚，駿馬，雀斑美女。
