@@ -5,19 +5,24 @@
 </h1>
 
 
-## 🚀 Introduction
-- Github是一個管理版本的工具,在這裡,我記錄一些筆記, 並且可以回顧不同時間的紀錄.
-
-## 🚀 About The Author
-- Name：李宇杰
-- ID：230124198801026119
-- Gender：male
-- Twitter：@shuzijianzao
-- Wechat：Spiral369
-- Email：shuzijianzao@outlook.com
+### 👋About The Author
+- Name:李宇杰
+- ID:230124198801026119
+- Brithday:2 Jan 1988 
+- Gender:male
+- Address:中国大陆
+- Company:佐乌（上海）科技有限公司 
+### 👀I'm interested in
+- 建筑,金属物品,木制物品,玻璃,瓷器,牛油果,水池,石头,骨头,漫画,素颜,读书,可追溯条理的设计,创意文化,油画,独角仙,蜻蜓,大蜘蛛,语言文字,循环体,船,精酿啤酒,干净整洁的工艺,地图,毛皮类动物,贝壳,游泳,星空,望远镜,布衣,伤疤,体毛,八爪鱼,马,雀斑美女.
+### 🌱I'm currently learning 
+- 天干地支记日法
+- 透视图
+### 📫How to reach me
+- Phone:+086 17301637045
+- Wechat:Spiral369
+- Email:yujaylee@hotmail.com
 - Whatsapp:+086 17301637045
-- GitHub：yujaylee
-- Web：shuzijianzao.com
-- Address：中国大陆
-- Company： 佐乌（上海）科技有限公司 
-- 喜歡建築，金屬物品，木製物品，玻璃，清水混凝土，瓷器，牛油果，水池，石頭，骨頭，漫畫, 素顏, 讀書, 可追述條例的設計，創意文化，油畫，植物，蚯蚓，蜘蛛, 語言文字, 循環體, 精釀啤酒，乾淨整潔的工藝，地圖，毛皮類動物，貝殼，游泳，望遠鏡，布衣，不致命的傷疤，體毛，八爪魚，駿馬，雀斑美女。
+- Facebook:shuzijianzao
+- Twitter:shuzijianzao
+- Web:yujaylee.com
+

@@ -1,12 +1,12 @@
 ## Email
-- yujeylee@hotmail.com 
-- shuzijainzao@outlook.com   
-- yujaylee@icloud.com 
+- shuzijainzao@outlook.com
 - shuzijianzao@gmail.com
-- yeahohwow@gmail.com  
-- 553569396@qq.com
+- yeahohwow@gmail.com 
+- yujeylee@hotmail.com     
+- yujaylee@icloud.com 
 - yujaylee@foxmail.com                        
-- yujaylee@163.com                            
+- yujaylee@163.com  
+- 553569396@qq.com                          
 - yujaylee@outlook.com                            (closed)               
 - intelligentgreenplanet@outlook.com              (closed)
 - zawoonet@outlook.com                            (closed)
@@ -14,16 +14,15 @@
 
 
 ## GitHub
-- yujaylee           shuzijianzao@outlook.com
+- yujaylee           yujaylee@foxmail.com
 - shuzijainzao       shuzijianzao@gmail.com       (email canceled ,enable to login,but can archive the account name)
-- zawoonet           yujaylee@hotmail.com
+- zawoonet           yujaylee@hotmail.com         (deleted)
 
-## WeChat & WeChat platform
+## WeChat & WeChat platform & mini program
 - Spiral369                         17301637045
 - Spiral3D                          17301637045
 - yujaylee_chatbox                  15391546407   (canceled)
-- mini program                                    (enable to login)
-- anther one offical account                      (enable to login)
+- YujayLee                          yujaylee@icloud.com
 
 ## QQ
 - 553569396
@@ -32,7 +31,7 @@
 - shuzijianzao@outlook.com
 
 ## Google
-- shuzijianzao@gmail.lom
+- shuzijianzao@gmail.com
 - yeahohwow@gmail.com
 
 ## Facebook
@@ -101,19 +100,19 @@
 - shuzijianzao@outlook.com
 
 ## Godaddy
-- Yujjie.Li  shuzijianzao@outlook.com
+- YujayLee  yujaylee@hotmail.com
 
 ## Windscrip
 - yeahohwow  shuzijianzao@gmail.com
 
 ## BaiDu
-- yujaylee
+- yujaylee   (not using)
 
 ## 荔枝FM
 - 17301637045
 
 ## 知乎
-- WeChat
+- WeChat   spiral369
 
 ## MOMO
 - 17301637045  (canceled)
@@ -125,4 +124,13 @@
 - yujaylee yujaylee@foxmail.com
 
 ## Aliyun
+- 
+
+## NewYorkTime
+- shuzijianzao
+
+## 开眼
+- wechat   spiral369
+
+## discord
 - 

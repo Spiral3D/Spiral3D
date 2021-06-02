@@ -6,22 +6,11 @@
 	<br>
 </h1>
 
-<h4 align="center"><a href="http://shuzijianzao.com" target="_blank"></a>.</h4>
-
- <h1  align="center"> 
-	<br>
-	<a href="https://github.com/shuzijianzao/Spiral3D/blob/master/Picture/SHUZIJIANZAO"><img src="https://github.com/shuzijianzao/Spiral3D/blob/master/Picture/SHUZIJIANZAO.png" alt="SHUZIJIANZAO" width="200"></a>
-	<img src="">
-	<br>
-	咪嘎哖啊
-	<br>
-</h1>
-
 ## 感知
-- 五官，移动，思考，梦境，外设传感器。
+- 五官，移动，思考，梦境。
 - 震动 频率 能量，心跳。
 - 瞳孔 耳膜 鼻腔 体感
-
+ 
 ## 地图 or Map or 景观
 - google earth （我在使用的工具）自己理解为卫星相机遥感成像，通过计算机图像现实的可视化可互动的模型，
 - 自然规律作为基础，然后添加各种天空盒，配合叙事场景。
@@ -928,3 +917,4 @@ and show the real cost of all your internal dependencies.
 ## 描述观察和诠释世界
 - 微生物,昆蟲,植物,動物,魚類,數以億計的種族,和人種共處,各有各的文明,需要互相屠殺,相互包容.
 
+## 读书 绘画 武术 餐饮 
